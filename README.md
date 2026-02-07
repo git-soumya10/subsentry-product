@@ -5,7 +5,7 @@ SubSentry – Subscription Management & Alerting Tool
 
 Overview:
 
-SubSentry is a subscription management and alerting product designed to help users track recurring subscriptions and avoid unexpected charges. The product focuses on timely reminders, clarity, and simplicity to build trust and improve user control over recurring expenses.
+SubSentry AI is a subscription management and alerting product designed to help users track recurring subscriptions and avoid unexpected charges. The product focuses on timely reminders, clarity, and simplicity to build trust and improve user control over recurring expenses.
 
 Problem Statement:
 
