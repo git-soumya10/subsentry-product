@@ -80,6 +80,7 @@ Trade-offs between feature depth and usability
 Designing products that fit naturally into user habits
 
 Screenshots:
+
 Login Screen
 ![Login Screen](screenshots/Login-Screen-SubSentry.png)
 
