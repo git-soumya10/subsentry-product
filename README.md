@@ -79,5 +79,8 @@ Trade-offs between feature depth and usability
 
 Designing products that fit naturally into user habits
 
+Screenshots:
+![Add Subscription Screen](screenshots/Add%Subscription%SubSentry.png)
+
 Live Demo:
 [https://vigil-subs.lovable.app](url)
