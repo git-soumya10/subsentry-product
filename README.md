@@ -80,7 +80,14 @@ Trade-offs between feature depth and usability
 Designing products that fit naturally into user habits
 
 Screenshots:
-![Add Subscription Screen](screenshots/Add%Subscription%SubSentry.png)
+Login Screen
+![Login Screen](screenshots/Login-Screen-SubSentry.png)
+
+Upload Screen
+![Upload Screen](screenshots/Upload-Screen-SubSentry.png)
+
+Subscription Screen
+![Subscription Screen](screenshots/Add-Subscription-SubSentry.png)
 
 Live Demo:
 [https://vigil-subs.lovable.app](url)
